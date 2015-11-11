@@ -12,6 +12,8 @@ gem 'jbuilder', '~> 2.0'
 
 gem 'sass', '3.2.19'
 
+gem 'bower-rails'
+
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 group :development, :test do
