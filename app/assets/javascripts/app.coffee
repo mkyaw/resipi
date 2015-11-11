@@ -1,0 +1,1 @@
+resipi = angular.module('resipi', [])
